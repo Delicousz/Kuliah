@@ -1,0 +1,8 @@
+motor = ['R15', 'Kawasaki', "250RR", "CBR150", "Harley"] 
+a = motor[:] 
+a[2] = "H2R" 
+panjang_list = len(motor)
+
+print(motor) 
+print(a) 
+print(panjang_list)
