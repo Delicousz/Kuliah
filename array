@@ -1,0 +1,5 @@
+motor = ['R15', 'Kawasaki', "250RR", "CBR150", "Harley"] 
+print (motor[4])
+print (motor[1], [0], [3])
+print (motor[0:3]
+
