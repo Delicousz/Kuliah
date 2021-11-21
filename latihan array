@@ -1,0 +1,3 @@
+motor = ['R15', 'Kawasaki', "250RR", "CBR150", "Harley"] 
+for i in motor:
+  print(i)
